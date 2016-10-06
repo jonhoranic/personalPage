@@ -1,35 +1,104 @@
-body { 
-background-color: #000000;
+*
+{
+  margin: 0 auto 0 auto;
+ text-align:left;
+ }
+ 
+body {
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
+	font-size: 13px;
+	color: #023148;
+	background-color: #DBEFF9
 }
 
-h1 {
-    font-family: "Comic Sans MS", cursive, sans-serif;
-    font-size: 40px;
-    color: #00FFFF;
-    text-align: center;
+#menu
+{
+  display: block; 
+  height:auto;
+  position: relative; 
+  overflow: hidden; 
+  width: 670px;
 }
 
-h2 {
-    font-family: "Comic Sans MS", cursive, sans-serif;
-    font-size: 30px;
-    color: #00FFFF;
-    text-align: center;
+#imageHolder
+{
+width:670px;
+height:345px;
+background-color:#023148;
 }
 
-p {
-    font-family: verdana;
-    font-size: 20px;
-    color: #FFFFFF;
-    text-align: center;
+img
+{
+position:relative;
+width:650px;
+height:325px;
+top:10px;
+margin-left:10px;
 }
 
-em {
-    font-family: verdana;
-    font-size: 22px;
-    color: #800000;
+#title
+{
+position:absolute;
+top:255px;
+left:162px;
+font-size:44px;
+color:#DBEFF9;
+font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
 }
 
-img {
-    display: block;
-    margin: 0 auto;
+#subTitle
+{
+position:absolute;
+top:305px;
+left:162px;
+font-size:20px;
+color:#DBEFF9;
+font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
+}
+
+#mainBox
+{
+margin-top:10px;
+width:670px;
+height:auto;
+background-color:#023148;
+}
+
+#mainBox .nestedBox
+{
+position:relative;
+
+width:650px;
+height:auto;
+top:10px;
+margin-left:10px;
+background-image:url(contentBack.png);
+background-color:#7998A7;
+background-repeat:repeat-x;
+}
+
+h1
+{
+font-size:25px;
+margin-bottom:10px;
+padding-top:18px;
+margin-left:15px;
+margin-top:10px;
+color:#1F1603;
+}
+
+.text
+{
+font-size:13px;
+line-height:24px;
+margin-left:13px;
+margin-right:13px;
+}
+
+a
+{
+color:#484848;
 }
