@@ -1,0 +1,35 @@
+body { 
+background-color: #000000;
+}
+
+h1 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 40px;
+    color: #00FFFF;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 30px;
+    color: #00FFFF;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+em {
+    font-family: verdana;
+    font-size: 22px;
+    color: #800000;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
