@@ -1,0 +1,58 @@
+body
+{
+padding-left:20px;
+background-color:#32B0E4
+}
+
+.highlight1 {
+stroke:black;
+stroke-width:3;
+fill: green
+}
+
+.highlight2 {
+stroke:black;
+stroke-width:3;
+fill: blue
+}
+
+.highlight3 {
+stroke:black;
+stroke-width:3;
+fill: red
+}
+
+.highlight4 {
+stroke:black;
+stroke-width:3;
+fill: yellow
+}
+
+.highlight5 {
+stroke:black;
+stroke-width:3;
+fill: orange
+}
+
+.highlight6 {
+stroke:black;
+stroke-width:3;
+fill: purple
+}
+
+.pop1, .pop2, .pop3, .pop4, .pop5, .pop6 {
+font-size:70px; 
+text-anchor:middle;
+display:none
+}
+
+.change {
+display:none
+}
+
+/*I noticed that there are a lot of problems with my level of understanding of JavaScript.
+Coupple that with the sudden relization that HTML has a problem juggling SVG and CSS at the
+same time? I have been unable to get things to work together, I have only been able to style
+these out and I will need help learning to develop the script I need. I included an
+itteration I was modeling off a web source (http://codepen.io/StrengthandFreedom/pen/ZOGVLg/).
+with some edits here or there.*/
