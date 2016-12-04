@@ -1,0 +1,114 @@
+
+<!--The total number of questions is: 12.-->
+<!--The total length of the X axis is set to 600.-->
+<!--The maximum Y value is 500-->
+<!DOCTYPE svg
+  SYSTEM "about:legacy-compat">
+<svg xmlns="http://www.w3.org/1999/xhtml" width="800" height="800">
+   <g transform="translate(50 600)">
+      <line x1="20" y1="0" x2="650" y2="0" stroke="black" stroke-width="1"></line>
+      <line x1="20" y1="0" x2="20" y2="-500" stroke="black" stroke-width="1"></line>
+      <g class="bar" id="QA7">
+         <line class="Yes" x1="50" y1="0" x2="50" y2="-362.3456790123456" stroke="#1645B0" stroke-width="30"></line>
+         <line class="No" x1="50" y1="-362.3456790123456" x2="50" y2="-433.9506172839506" stroke="#FD060C" stroke-width="30"></line>
+         <line class="Blank" x1="50" y1="-433.9506172839506" x2="50" y2="-499.99999999999994" stroke="#0FD205" stroke-width="30"></line>
+         <text x="50" y="-181.1728395061728" text-anchor="middle" stroke="white">72%</text>
+         <text x="50" y="-398.1481481481481" text-anchor="middle" stroke="white">14%</text>
+         <text x="50" y="-466.97530864197523" text-anchor="middle" stroke="white">13%</text>
+      </g>
+      <g class="bar" id="QA6">
+         <line class="Yes" x1="100" y1="0" x2="100" y2="-325.3086419753086" stroke="#1645B0" stroke-width="30"></line>
+         <line class="No" x1="100" y1="-325.3086419753086" x2="100" y2="-388.2716049382716" stroke="#FD060C" stroke-width="30"></line>
+         <line class="Blank" x1="100" y1="-388.2716049382716" x2="100" y2="-500" stroke="#0FD205" stroke-width="30"></line>
+         <text x="100" y="-162.6543209876543" text-anchor="middle" stroke="white">65%</text>
+         <text x="100" y="-356.79012345679007" text-anchor="middle" stroke="white">13%</text>
+         <text x="100" y="-444.13580246913574" text-anchor="middle" stroke="white">22%</text>
+      </g>
+      <g class="bar" id="QA9">
+         <line class="Yes" x1="150" y1="0" x2="150" y2="-314.1975308641975" stroke="#1645B0" stroke-width="30"></line>
+         <line class="No" x1="150" y1="-314.1975308641975" x2="150" y2="-391.9753086419753" stroke="#FD060C" stroke-width="30"></line>
+         <line class="Blank" x1="150" y1="-391.9753086419753" x2="150" y2="-500" stroke="#0FD205" stroke-width="30"></line>
+         <text x="150" y="-157.09876543209876" text-anchor="middle" stroke="white">63%</text>
+         <text x="150" y="-353.0864197530864" text-anchor="middle" stroke="white">16%</text>
+         <text x="150" y="-445.98765432098764" text-anchor="middle" stroke="white">22%</text>
+      </g>
+      <g class="bar" id="QA1">
+         <line class="Yes" x1="200" y1="0" x2="200" y2="-288.88888888888886" stroke="#1645B0" stroke-width="30"></line>
+         <line class="No" x1="200" y1="-288.88888888888886" x2="200" y2="-442.5925925925925" stroke="#FD060C" stroke-width="30"></line>
+         <line class="Blank" x1="200" y1="-442.5925925925925" x2="200" y2="-500" stroke="#0FD205" stroke-width="30"></line>
+         <text x="200" y="-144.44444444444443" text-anchor="middle" stroke="white">58%</text>
+         <text x="200" y="-365.7407407407407" text-anchor="middle" stroke="white">31%</text>
+         <text x="200" y="-471.29629629629625" text-anchor="middle" stroke="white">11%</text>
+      </g>
+      <g class="bar" id="QA4">
+         <line class="Yes" x1="250" y1="0" x2="250" y2="-279.126213592233" stroke="#1645B0" stroke-width="30"></line>
+         <line class="No" x1="250" y1="-279.126213592233" x2="250" y2="-354.36893203883494" stroke="#FD060C" stroke-width="30"></line>
+         <line class="Blank" x1="250" y1="-354.36893203883494" x2="250" y2="-491.50485436893206" stroke="#0FD205" stroke-width="30"></line>
+         <line class="Yes_but_fined" x1="250" y1="-491.50485436893206" x2="250" y2="-500" stroke="#FFAC06" stroke-width="30"></line>
+         <text x="250" y="-139.5631067961165" text-anchor="middle" stroke="white">56%</text>
+         <text x="250" y="-316.747572815534" text-anchor="middle" stroke="white">15%</text>
+         <text x="250" y="-422.9368932038835" text-anchor="middle" stroke="white">27%</text>
+         <text x="250" y="-504" text-anchor="middle" stroke="black">2%</text>
+      </g>
+      <g class="bar" id="QA8">
+         <line class="Yes" x1="300" y1="0" x2="300" y2="-218.5185185185185" stroke="#1645B0" stroke-width="30"></line>
+         <line class="No" x1="300" y1="-218.5185185185185" x2="300" y2="-354.9382716049383" stroke="#FD060C" stroke-width="30"></line>
+         <line class="Blank" x1="300" y1="-354.9382716049383" x2="300" y2="-500" stroke="#0FD205" stroke-width="30"></line>
+         <text x="300" y="-109.25925925925925" text-anchor="middle" stroke="white">44%</text>
+         <text x="300" y="-286.7283950617284" text-anchor="middle" stroke="white">27%</text>
+         <text x="300" y="-427.4691358024691" text-anchor="middle" stroke="white">29%</text>
+      </g>
+      <g class="bar" id="QA10">
+         <line class="Yes" x1="350" y1="0" x2="350" y2="-214.46078431372547" stroke="#1645B0" stroke-width="30"></line>
+         <line class="No" x1="350" y1="-214.46078431372547" x2="350" y2="-409.3137254901961" stroke="#FD060C" stroke-width="30"></line>
+         <line class="Blank" x1="350" y1="-409.3137254901961" x2="350" y2="-500" stroke="#0FD205" stroke-width="30"></line>
+         <text x="350" y="-107.23039215686273" text-anchor="middle" stroke="white">43%</text>
+         <text x="350" y="-311.8872549019608" text-anchor="middle" stroke="white">39%</text>
+         <text x="350" y="-454.65686274509807" text-anchor="middle" stroke="white">18%</text>
+      </g>
+      <g class="bar" id="QA2">
+         <line class="Yes" x1="400" y1="0" x2="400" y2="-211.11111111111111" stroke="#1645B0" stroke-width="30"></line>
+         <line class="No" x1="400" y1="-211.11111111111111" x2="400" y2="-354.9382716049382" stroke="#FD060C" stroke-width="30"></line>
+         <line class="Blank" x1="400" y1="-354.9382716049382" x2="400" y2="-500" stroke="#0FD205" stroke-width="30"></line>
+         <text x="400" y="-105.55555555555556" text-anchor="middle" stroke="white">42%</text>
+         <text x="400" y="-283.0246913580247" text-anchor="middle" stroke="white">29%</text>
+         <text x="400" y="-427.4691358024691" text-anchor="middle" stroke="white">29%</text>
+      </g>
+      <g class="bar" id="QA5">
+         <line class="Yes" x1="450" y1="0" x2="450" y2="-197.53086419753086" stroke="#1645B0" stroke-width="30"></line>
+         <line class="No" x1="450" y1="-197.53086419753086" x2="450" y2="-316.04938271604937" stroke="#FD060C" stroke-width="30"></line>
+         <line class="Blank" x1="450" y1="-316.04938271604937" x2="450" y2="-500" stroke="#0FD205" stroke-width="30"></line>
+         <text x="450" y="-98.76543209876543" text-anchor="middle" stroke="white">40%</text>
+         <text x="450" y="-256.7901234567901" text-anchor="middle" stroke="white">24%</text>
+         <text x="450" y="-408.0246913580247" text-anchor="middle" stroke="white">37%</text>
+      </g>
+      <g class="bar" id="QA11">
+         <line class="Yes" x1="500" y1="0" x2="500" y2="-162.57668711656441" stroke="#1645B0" stroke-width="30"></line>
+         <line class="No" x1="500" y1="-162.57668711656441" x2="500" y2="-398.77300613496936" stroke="#FD060C" stroke-width="30"></line>
+         <line class="Blank" x1="500" y1="-398.77300613496936" x2="500" y2="-500" stroke="#0FD205" stroke-width="30"></line>
+         <text x="500" y="-81.28834355828221" text-anchor="middle" stroke="white">33%</text>
+         <text x="500" y="-280.6748466257669" text-anchor="middle" stroke="white">47%</text>
+         <text x="500" y="-449.3865030674847" text-anchor="middle" stroke="white">20%</text>
+      </g>
+      <g class="bar" id="QA14">
+         <line class="Yes" x1="550" y1="0" x2="550" y2="-143.72716199756394" stroke="#1645B0" stroke-width="30"></line>
+         <line class="No" x1="550" y1="-143.72716199756394" x2="550" y2="-379.415347137637" stroke="#FD060C" stroke-width="30"></line>
+         <line class="Blank" x1="550" y1="-379.415347137637" x2="550" y2="-500" stroke="#0FD205" stroke-width="30"></line>
+         <text x="550" y="-71.86358099878197" text-anchor="middle" stroke="white">29%</text>
+         <text x="550" y="-261.5712545676005" text-anchor="middle" stroke="white">47%</text>
+         <text x="550" y="-439.7076735688185" text-anchor="middle" stroke="white">24%</text>
+      </g>
+      <g class="bar" id="QA12">
+         <line class="Yes" x1="600" y1="0" x2="600" y2="-137.08690330477356" stroke="#1645B0" stroke-width="30"></line>
+         <line class="No" x1="600" y1="-137.08690330477356" x2="600" y2="-366.5850673194615" stroke="#FD060C" stroke-width="30"></line>
+         <line class="Blank" x1="600" y1="-366.5850673194615" x2="600" y2="-500" stroke="#0FD205" stroke-width="30"></line>
+         <text x="600" y="-68.54345165238678" text-anchor="middle" stroke="white">27%</text>
+         <text x="600" y="-251.8359853121175" text-anchor="middle" stroke="white">46%</text>
+         <text x="600" y="-433.29253365973074" text-anchor="middle" stroke="white">27%</text>
+      </g>
+      <text x="5" y="-250" text-anchor="middle" font-weight="bold">50% </text>
+      <line x1="20" x2="650" y1="-250" y2="-250" stroke="purple" stroke-width=".8" stroke-dasharray="10"></line>
+      <text x="5" y="-500" text-anchor="middle" font-weight="bold">100% </text>
+      <line x1="20" x2="650" y1="-500" y2="-500" stroke="purple" stroke-width=".8" stroke-dasharray="10"></line>
+   </g>
+</svg>

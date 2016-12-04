@@ -1,0 +1,157 @@
+
+<!DOCTYPE table
+  SYSTEM "about:legacy-compat">
+<table xmlns="http://www.w3.org/1999/xhtml">
+   <tr>
+      <th class="tHeader">Question</th>
+      <th class="tHeader">Yes</th>
+      <th class="tHeader">No</th>
+      <th class="tHeader">Blank</th>
+      <th class="tHeader">Yes, but fined</th>
+   </tr>
+   <tbody id="tbody-QA7" style="display: none">
+      <tr>
+         <td class="Q">
+            Does the work require the employes to stoop over?
+            
+         </td>
+         <td class="Y">587</td>
+         <td class="N">116</td>
+         <td class="B">107</td>
+         <td class="F"></td>
+      </tr>
+   </tbody>
+   <tbody id="tbody-QA6" style="display: none">
+      <tr>
+         <td class="Q">
+            Are employes furnished with pure drinking water?
+            
+         </td>
+         <td class="Y">527</td>
+         <td class="N">102</td>
+         <td class="B">181</td>
+         <td class="F"></td>
+      </tr>
+   </tbody>
+   <tbody id="tbody-QA9" style="display: none">
+      <tr>
+         <td class="Q">
+            Are there separate water-closets for males and females[?]
+            
+         </td>
+         <td class="Y">509</td>
+         <td class="N">126</td>
+         <td class="B">175</td>
+         <td class="F"></td>
+      </tr>
+   </tbody>
+   <tbody id="tbody-QA1" style="display: none">
+      <tr>
+         <td class="Q">
+            Is there free circulation of air through and about the building in which you work?
+            
+            
+         </td>
+         <td class="Y">468</td>
+         <td class="N">249</td>
+         <td class="B">93</td>
+         <td class="F"></td>
+      </tr>
+   </tbody>
+   <tbody id="tbody-QA4" style="display: none">
+      <tr>
+         <td class="Q">
+            Are there facilities for washing?
+            
+         </td>
+         <td class="Y">460</td>
+         <td class="N">124</td>
+         <td class="B">226</td>
+         <td class="F">14</td>
+      </tr>
+   </tbody>
+   <tbody id="tbody-QA8" style="display: none">
+      <tr>
+         <td class="Q">
+            Are there proper and separate facilities for change of dress by males and females?
+            
+         </td>
+         <td class="Y">354</td>
+         <td class="N">221</td>
+         <td class="B">235</td>
+         <td class="F"></td>
+      </tr>
+   </tbody>
+   <tbody id="tbody-QA10" style="display: none">
+      <tr>
+         <td class="Q">
+            Are there stairways from the windows outside?
+            
+         </td>
+         <td class="Y">350</td>
+         <td class="N">318</td>
+         <td class="B">148</td>
+         <td class="F"></td>
+      </tr>
+   </tbody>
+   <tbody id="tbody-QA2" style="display: none">
+      <tr>
+         <td class="Q">
+            Are there offensive odors in the rooms occupied by employes[?]
+            
+         </td>
+         <td class="Y">342</td>
+         <td class="N">233</td>
+         <td class="B">235</td>
+         <td class="F"></td>
+      </tr>
+   </tbody>
+   <tbody id="tbody-QA5" style="display: none">
+      <tr>
+         <td class="Q">
+            Are seats provided, as prescribed by law?
+            
+         </td>
+         <td class="Y">320</td>
+         <td class="N">192</td>
+         <td class="B">298</td>
+         <td class="F"></td>
+      </tr>
+   </tbody>
+   <tbody id="tbody-QA11" style="display: none">
+      <tr>
+         <td class="Q">
+            Are the rooms supplied with water pipes?
+            
+         </td>
+         <td class="Y">265</td>
+         <td class="N">385</td>
+         <td class="B">165</td>
+         <td class="F"></td>
+      </tr>
+   </tbody>
+   <tbody id="tbody-QA14" style="display: none">
+      <tr>
+         <td class="Q">
+            Are there water tanks and buckets on each floor?
+            
+         </td>
+         <td class="Y">236</td>
+         <td class="N">387</td>
+         <td class="B">198</td>
+         <td class="F"></td>
+      </tr>
+   </tbody>
+   <tbody id="tbody-QA12" style="display: none">
+      <tr>
+         <td class="Q">
+            Are there hose attachments?
+            
+         </td>
+         <td class="Y">224</td>
+         <td class="N">375</td>
+         <td class="B">218</td>
+         <td class="F"></td>
+      </tr>
+   </tbody>
+</table>
