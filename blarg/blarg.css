@@ -49,6 +49,17 @@ div.pinkWall{
     display: flex;
     width: 100%;
     height: 70%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+div.pinkHolder{
+    background: #EC9397;
+    display: flex;
+    width: 100%;
+    height: 70%;
+    flex-direction: row;
     align-items: center;
     justify-content: space-between;
 }
